@@ -5,4 +5,4 @@
 ### The Madhyamik Division and Percentage Calculator is an online calculation tool. It helps the students to calculate the percentage, grade and division by using their total marks. And students can also calculate using their marks of individual subjects.
 This tool is especially useful for students who want to know their percentage, grade and division for higher institutional admission.
 
-[Click here...](https://techinbengali.com/madhyamik-percentage-calculator/)
+## [Click here...](https://techinbengali.com/madhyamik-percentage-calculator/)
